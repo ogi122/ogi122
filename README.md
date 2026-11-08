@@ -16,17 +16,31 @@ I'm currently learning about software architecture, backend engineering, and fit
 
 ### 🚀 Featured Projects
 
-**[AIKeyManager](https://github.com/ogi122/AIKeyManager)**  
-A centralized platform for managing and storing API key configurations securely.
-* Built with **ASP.NET Core MVC** and **Entity Framework Core**
-* Handled schema design and database logic with **SQL Server** (custom triggers, functions, and stored procedures)
-* Implemented cookie-based authentication with role-based permissions (Admin/User)
-
 **[RigHub](https://github.com/ogi122/RigHub)**  
 A community hub for showcasing, exploring, and rating custom PC builds.
-* **Frontend:** React, Vite, and Tailwind CSS
-* **Backend:** Express & MySQL featuring JWT auth and media upload handling
-* Interactive upvote/downvote system for community builds
+- **Frontend:** React, Vite, and Tailwind CSS
+- **Backend:** Express & MySQL featuring JWT auth and media upload handling
+- Interactive upvote/downvote system for community builds
+
+<br />
+<p align="center">
+  <img src="Screenshot 2026-11-07 205655.png" width="100%" alt="RigHub Preview" style="border-radius: 8px;" />
+</p>
+<br />
+
+---
+
+**[AIKeyManager](https://github.com/ogi122/AIKeyManager)**  
+A centralized platform for managing and storing API key configurations securely.
+- Built with **ASP.NET Core MVC** and **Entity Framework Core**
+- Handled schema design and database logic with **SQL Server** (custom triggers, functions, and stored procedures)
+- Implemented cookie-based authentication with role-based permissions (Admin/User)
+
+<br />
+<p align="center">
+  <img src="Screenshot 2026-11-07 214553.png" width="100%" alt="AIKeyManager Dashboard Preview" style="border-radius: 8px;" />
+</p>
+<br />
 
 ---
 
