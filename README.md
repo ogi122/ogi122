@@ -1,71 +1,46 @@
-# Ognjen Stojanović
+# Hi, I'm Ognjen 👋
 
-**Computer Science Student · Aspiring Software Engineer**  
-University of Montenegro
+Computer Science student at the University of Montenegro.  
+I build full-stack applications and enjoy working across the stack — from database design and backend logic to clean frontend interfaces.
 
-I build practical full-stack applications with a strong focus on clean backend architecture, relational databases, and modern frontend development. Currently deepening my understanding of software architecture, system design, and AI-assisted development.
+Currently focused on software architecture, backend engineering, and exploring AI tools for development.
 
 ---
 
 ### Featured Projects
 
 **[AIKeyManager](https://github.com/yourusername/AIKeyManager)**  
-AI API Key Management Platform  
+API key management platform built with ASP.NET Core MVC.
 
-Full-stack web application for managing API keys and user administration.
-
-- Designed and implemented a relational database schema in SQL Server
-- Created triggers, stored procedures, scalar functions, and table-valued functions
-- Implemented cookie-based authentication with role-based access (Admin / User)
-
-**Tech:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server
+- Relational database design with SQL Server (triggers, stored procedures, functions)
+- Cookie-based authentication with Admin/User roles
+- Entity Framework Core integration
 
 **[RigHub](https://github.com/yourusername/RigHub)**  
-PC Build Sharing & Discovery Platform  
+Platform for sharing and discovering PC builds.
 
-Community platform for creating, sharing, and discovering PC builds.
-
-- Searchable feed with filtering and dedicated build detail pages
-- JWT authentication + bcrypt password hashing
-- Role-based access control and admin-only routes
-- Image uploads (Multer) and upvote/downvote system backed by MySQL
-
-**Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MySQL
+- React + Vite frontend with Tailwind
+- JWT auth, role-based access, image uploads
+- MySQL backend with upvote/downvote system
 
 ---
 
-### Additional Experience
+### Other Experience
 
-**Ragdoll on Skates** — Roblox Game  
-Co-created a game that surpassed **45 million visits**.
-
-- Designed levels, environments, and visual elements
-- Contributed to overall game flow and player experience
-- Implemented Lua scripts for traps and core gameplay mechanics
+**Ragdoll on Skates** (Roblox)  
+Co-created a game that reached **45M+ visits**. Worked on level design, environments and Lua gameplay scripts.
 
 ---
 
 ### Tech Stack
 
-**Languages**  
-C# · Java · C++ · C · JavaScript · Python · SQL · Lua
-
-**Frontend**  
-HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Vite
-
-**Backend**  
-ASP.NET Core MVC · Entity Framework Core · Node.js · Express.js
-
-**Databases**  
-Microsoft SQL Server · MySQL
-
-**Tools**  
-Git · GitHub · Visual Studio · VS Code · Azure Data Studio · Roblox Studio
+`C#` `Java` `JavaScript` `Python` `C++` `SQL`  
+`ASP.NET Core` `Entity Framework` `React` `Node.js` `Express`  
+`SQL Server` `MySQL` `Tailwind CSS` `Git`
 
 ---
 
-### Currently Exploring
+### Currently exploring
 
-- Software architecture and backend engineering
-- Modern React ecosystem and JavaScript best practices
+Software architecture · modern React · local LLMs and AI-assisted development
 - Local and open-source LLMs, Hugging Face ecosystem, and AI-assisted development workflows
