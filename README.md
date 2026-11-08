@@ -52,6 +52,11 @@ A simulation platform for managing API keys for AI models: generate keys per mod
 
 Co-created a Roblox ragdoll game that has hit **45M+ total visits**. I handled level design, environment artwork, and Lua scripting for traps and similar elements.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49655406-4387-4c41-a2a7-c0ab92712e09" width="49%" alt="AIKeyManager Dashboard" style="border-radius: 6px;" />
+  <img src="https://github.com/user-attachments/assets/704520bc-a930-498a-9957-8015be5f4f7e" width="49%" alt="RigHub Preview" style="border-radius: 6px;" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
