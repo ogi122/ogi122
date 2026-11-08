@@ -9,14 +9,14 @@ Currently focused on software architecture, backend engineering, and exploring A
 
 ### Featured Projects
 
-**[AIKeyManager](https://github.com/yourusername/AIKeyManager)**  
+**[AIKeyManager](https://github.com/ogi122/AIKeyManager)**  
 API key management platform built with ASP.NET Core MVC.
 
 - Relational database design with SQL Server (triggers, stored procedures, functions)
 - Cookie-based authentication with Admin/User roles
 - Entity Framework Core integration
 
-**[RigHub](https://github.com/yourusername/RigHub)**  
+**[RigHub](https://github.com/ogi122/RigHub)**  
 Platform for sharing and discovering PC builds.
 
 - React + Vite frontend with Tailwind
