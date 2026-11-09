@@ -91,4 +91,4 @@ Co-created a Roblox ragdoll game that has hit **45M+ total visits**. I handled l
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/ognjen-stojanovi%C4%87-b2930a2b8/)
+[LinkedIn](https://www.linkedin.com/in/ognjen-stojanović122)
